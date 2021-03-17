@@ -11,11 +11,11 @@ namespace git
             a= Int32.Parse(Console.ReadLine());
             Console.WriteLine("Enter a value for b: ");
             b= Int32.Parse(Console.ReadLine());
-            Console.WriteLine($"Multiplying {a}*{b} equals {Multiply(a, b)}");
+            Console.WriteLine($"Subtraction {a}-{b} equals {Multiply(a, b)}");
         }
         public static int Multiply(int a, int b)
         {
-            return a*b;
+            return a-b;
         }
     }
 }
