@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\bin\Debug\net5.0\git.exe
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\bin\Debug\net5.0\git.deps.json
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\bin\Debug\net5.0\git.runtimeconfig.json
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\bin\Debug\net5.0\git.runtimeconfig.dev.json
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\bin\Debug\net5.0\git.dll
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\bin\Debug\net5.0\ref\git.dll
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\bin\Debug\net5.0\git.pdb
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\git.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\git.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\git.AssemblyInfo.cs
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\git.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\git.dll
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\ref\git.dll
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\git.pdb
+C:\Users\HP\Desktop\POO\Git\ghosts_POO012021\git\obj\Debug\net5.0\git.genruntimeconfig.cache
